@@ -1,6 +1,6 @@
 # ✿ Little Pink Café ✿
 
-An interactive aesthetic café website made using HTML, TailwindCSS, and JavaScript.
+An interactive aesthetic café website made using, Django, HTML, TailwindCSS, and JavaScript.
 
 Live Website:  
 https://sourasree-pramanik18110.github.io/Little-Pink-Cafe-/
